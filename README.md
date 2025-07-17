@@ -1,4 +1,4 @@
-## Olá! Eu sou João Morito, desenvolvedor Back End Java Spring
+## Olá! Eu sou João Morito, desenvolvedor FullStack Java/Spring/Angular
 
 ### 📊 Estatísticas das linguagens mais usadas
 
