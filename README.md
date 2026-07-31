@@ -1,9 +1,5 @@
 ## Olá! Eu sou João Morito, desenvolvedor FullStack Java/Spring/Angular
 
-### 📊 Estatísticas das linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomorito&layout=compact&langs_count=10&theme=radical)
-
 ### 🛠️ Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
